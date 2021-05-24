@@ -7,7 +7,3 @@
 ### Test Puzzles CLoud
 
 #### Test Puzzles CLoud
-
-##### Test Puzzles CLoud
-
-###### Test Puzzles CLoud
