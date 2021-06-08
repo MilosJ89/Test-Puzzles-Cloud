@@ -7,6 +7,18 @@ chapters:
   name: test H1
   path: ''
   type: MANUAL_CHAPTER
+- chapters:
+  - chapters:
+    - chapters: []
+      name: Markdown4
+      path: markdown4.md
+      type: MARKDOWN_CHAPTER
+    name: TEst H2
+    path: ''
+    type: MANUAL_CHAPTER
+  name: TEst H1
+  path: ''
+  type: MANUAL_CHAPTER
 fieldValues:
   doc-author-email: ''
   release-date: ''
