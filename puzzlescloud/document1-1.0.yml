@@ -1,0 +1,53 @@
+chapters:
+- chapters:
+  - chapters: []
+    name: Markdown44
+    path: markdown44.md
+    type: MARKDOWN_CHAPTER
+  - chapters:
+    - chapters: []
+      name: Markdown44
+      path: markdown44.md
+      type: MARKDOWN_CHAPTER
+    - chapters:
+      - chapters:
+        - chapters:
+          - chapters: []
+            name: test 6
+            path: ''
+            type: MANUAL_CHAPTER
+          name: test 5
+          path: ''
+          type: MANUAL_CHAPTER
+        name: test 4
+        path: ''
+        type: MANUAL_CHAPTER
+      name: test3
+      path: ''
+      type: MANUAL_CHAPTER
+    name: test 2
+    path: ''
+    type: MANUAL_CHAPTER
+  name: test1
+  path: ''
+  type: MANUAL_CHAPTER
+fieldValues:
+  doc-author-email: ''
+  release-date: ''
+  doc-type: ''
+  doc-subtitle: ''
+  doc-title: ''
+  doc-company: ''
+  change-description: ''
+  doc-company-url: ''
+  doc-version: ''
+  ' reference-doc-title ': ''
+  doc-release-date: ''
+  doc-author: ''
+  File Name: document1.docx
+  doc-author-name: ''
+  ' reference-doc-filename ': ''
+  doc-id: ''
+name: ROOT
+path: null
+type: null
