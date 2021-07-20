@@ -1,0 +1,27 @@
+chapters:
+- chapters:
+  - chapters: []
+    name: Markdown44
+    path: markdown44.md
+    type: MARKDOWN_CHAPTER
+  name: test 1
+  path: ''
+  type: MANUAL_CHAPTER
+fieldValues:
+  doc-author-email: ''
+  doc-type: ''
+  doc-subtitle: ''
+  doc-title: ''
+  doc-company: ''
+  doc-company-url: ''
+  doc-version: ''
+  ' reference-doc-title ': ''
+  doc-release-date: ''
+  doc-change-description: ''
+  File Name: test-advanced.docx
+  doc-author-name: ''
+  ' reference-doc-filename ': ''
+  doc-id: ''
+name: ROOT
+path: null
+type: null
