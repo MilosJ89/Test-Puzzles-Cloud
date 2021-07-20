@@ -1,0 +1,26 @@
+chapters:
+- chapters:
+  - chapters: []
+    name: Markdown44
+    path: markdown44.md
+    type: MARKDOWN_CHAPTER
+  name: test 1
+  path: ''
+  type: MANUAL_CHAPTER
+- chapters:
+  - chapters: []
+    name: Markdown44
+    path: markdown44.md
+    type: MARKDOWN_CHAPTER
+  name: test 2
+  path: ''
+  type: MANUAL_CHAPTER
+fieldValues:
+  doc-release-date: ''
+  doc-type: ''
+  doc-title: ''
+  File Name: test-hello-world.docx
+  doc-version: ''
+name: ROOT
+path: null
+type: null
