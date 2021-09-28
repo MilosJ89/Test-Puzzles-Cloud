@@ -1,0 +1,35 @@
+chapters:
+- chapters:
+  - chapters: []
+    name: Markdown44
+    path: markdown44.md
+    type: MARKDOWN_CHAPTER
+  - chapters:
+    - chapters: []
+      name: Markdown4
+      path: markdown4.md
+      type: MARKDOWN_CHAPTER
+    name: test 2
+    path: ''
+    type: MANUAL_CHAPTER
+  name: test
+  path: ''
+  type: MANUAL_CHAPTER
+fieldValues:
+  doc-author-email: test@gmail.com
+  doc-type: test type
+  doc-subtitle: test subtitle
+  doc-title: test title
+  doc-company: test company
+  doc-company-url: test company url
+  doc-version: '1.2'
+  ' reference-doc-title ': test doc title
+  doc-release-date: 15.10.2021.
+  doc-change-description: test change description
+  File Name: test5.docx
+  doc-author-name: test name
+  ' reference-doc-filename ': test filename
+  doc-id: test ID 111111
+name: ROOT
+path: null
+type: null
